@@ -1,0 +1,12 @@
+names:
+- extinguisher
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: fireextinguisher-z5atr
+  url: https://universe.roboflow.com/fire-extinguisher/fireextinguisher-z5atr/dataset/2
+  version: 2
+  workspace: fire-extinguisher
+test: test/images
+train: train/images
+val: valid/images
